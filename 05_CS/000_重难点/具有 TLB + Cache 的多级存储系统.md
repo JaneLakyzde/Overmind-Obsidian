@@ -1,0 +1,107 @@
+---
+aliases:
+tags:
+  - error
+  - 计算机组成原理
+date: 2026-03-31
+---
+
+
+| **TLB** | **页表 (PT)** | **Cache** | **说明**                                           |
+| ------- | ----------- | --------- | ------------------------------------------------ |
+| ✅       | -           | ✅         | **最快路径**。TLB 找到地址，Cache 找到数据。                    |
+| ✅       | -           | ❌         | 地址转换极快，但数据需从**主存**读取。                            |
+| ❌       | ✅           | ✅         | TLB 没中，查页表后发现页面在内存，随后 Cache 命中数据。                |
+| ❌       | ✅           | ❌         | 典型流程：TLB 没中 $\to$ 查页表中 $\to$ Cache 没中 $\to$ 访主存。 |
+| ❌       | ❌           | -         | **最慢路径**。发生**缺页异常**，需要进行磁盘 I/O。                  |
+TLB命中, 页表一定也命中 ; 页表缺失, Cache一定也缺失
+
+-
+```mermaid
+flowchart TD
+    %% 起点
+    START([CPU发出虚拟地址 VA]) --> TLB_Check{对应页表项<br/>在TLB中?}
+
+    %% 1. TLB 命中路径
+    TLB_Check -- 是 --> Trans_PA[将 VA 转换为物理地址 PA]
+
+    %% ---------------------------------------------------------
+    %% 【子图 1】: TLB 缺失处理
+    %% ---------------------------------------------------------
+    subgraph TLB_Miss_Box [TLB 缺失处理]
+        direction TB
+        Access_PT[访问主存中的页表] --> Page_Check{访问页面在<br/>主存中?}
+        Page_Check -- 是 --> Update_TLB[更新 TLB 并将 VA<br/>转换为物理地址 PA]
+    end
+    TLB_Check -- 否 --> Access_PT
+
+    %% ---------------------------------------------------------
+    %% 【子图 2】: 缺页处理 (关键逻辑：指向重新执行)
+    %% ---------------------------------------------------------
+    subgraph Page_Fault_Box [缺页处理]
+        direction TB
+        Free_Frame{主存中存在<br/>空闲页框?}
+        Free_Frame -- 否 --> Swap_Out[从主存换出一页]
+        Free_Frame -- 是 --> Disk_Read[从磁盘读出一页到主存]
+        Swap_Out --> Disk_Read
+        Disk_Read --> Update_PT_TLB[更新页表和 TLB]
+    end
+    Page_Check -- 否 (缺页) --> Free_Frame
+
+    %% ---------------------------------------------------------
+    %% 【子图 3】: Cache 缺失处理
+    %% ---------------------------------------------------------
+    subgraph Cache_Miss_Box [Cache 缺失处理]
+        direction TB
+        Free_Line{Cache中存在<br/>空闲行?}
+        Replace_Block[从 Cache 替换出一块]
+        Free_Line -- 否 --> Replace_Block
+        Free_Line -- 是 --> Fetch_Block[主存块送 Cache, 并<br/>置标记和有效位]
+        Replace_Block --> Fetch_Block
+    end
+
+    %% 逻辑连接与汇聚
+    Trans_PA --> Cache_Check{对应主存块<br/>在 Cache 中?}
+    Update_TLB --> Cache_Check
+    
+    %% 【核心修正点】：缺页处理后重新执行指令
+    Update_PT_TLB -- 重新执行指令 --> START
+
+    %% 最终访问路径
+    Cache_Check -- 否 (Cache 缺失) --> Free_Line
+    Cache_Check -- 是 --> END([访问 Cache 存取数据])
+    Fetch_Block --> END
+
+    %% 样式还原 (灰色背景 + 虚线框)
+    style TLB_Miss_Box fill:#f2f2f2,stroke:#333,stroke-dasharray: 5 5
+    style Page_Fault_Box fill:#f2f2f2,stroke:#333,stroke-dasharray: 5 5
+    style Cache_Miss_Box fill:#f2f2f2,stroke:#333,stroke-dasharray: 5 5
+    
+    %% 红色高亮“重新执行”路径，方便复习记忆
+    linkStyle 10 stroke:#ff4d4f,stroke-width:2px,stroke-dasharray: 3 3
+```
+
+
+---
+
+# 缺页中断异常页异常的处理
+1. **操作系统（OS）出手**：在缺页异常处理程序中，OS 把页面从磁盘搬到内存，并更新了**页表（Page Table）📋**，标记该页现在“在内存中”。
+    
+2. **指令重执行**：异常处理结束后，CPU 会重新执行刚才那条导致缺页的指令。它再次发出同一个**虚拟地址（VA）**。
+    
+3. **再次访问 TLB**：
+    
+    - 此时 TLB 🗺️ 里面还是没有这个地址。
+    - 但因为页表 📋 已经更新了，CPU 在查找页表时会**命中**。
+        
+4. **回填 TLB**：一旦从页表获取了物理地址，硬件（或 OS，取决于架构）就会自动把这个全新的映射关系**写入 TLB**。
+    
+    
+5. **Cache 的特性**：Cache 只会自动缓存 CPU 最近访问过的数据。在“指令重执行”之前，CPU 还没来得及真正“读”到这个新搬来的物理地址，所以 Cache 里自然没有它的备份。
+
+- **第一次尝试**：TLB ❌ $\to$ 页表 ❌ $\to$ **触发缺页异常**（去磁盘搬家）。
+- **第二次尝试（指令重执行）**：TLB ❌ $\to$ 页表 ✅（从内存取地址并**更新 TLB**） $\to$ Cache ❌ $\to$ **从主存取数据**（并更新 Cache）。
+- **第三次访问（如果再读同一个数据）**：TLB ✅ $\to$ Cache ✅。**这时候才是真正的全速运行！** 🚀
+
+---
+

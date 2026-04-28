@@ -1,0 +1,30 @@
+{
+  "hotkey-helper:browse-plugins": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "keyboard-analyzer:open-shortcuts-analyzer-view-new-tab": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "daily-notes:goto-prev": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

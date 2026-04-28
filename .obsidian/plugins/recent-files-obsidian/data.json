@@ -1,0 +1,200 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "000_Home",
+      "path": "000_Home.md"
+    },
+    {
+      "basename": "进程与线程的内存模型",
+      "path": "05_CS/000_重难点/进程与线程的内存模型.md"
+    },
+    {
+      "basename": "拓扑",
+      "path": "05_CS/005_算法/拓扑.md"
+    },
+    {
+      "basename": "迪杰斯特拉",
+      "path": "05_CS/005_算法/迪杰斯特拉.md"
+    },
+    {
+      "basename": "并查集",
+      "path": "05_CS/005_算法/并查集.md"
+    },
+    {
+      "basename": "Trie",
+      "path": "05_CS/005_算法/Trie.md"
+    },
+    {
+      "basename": "KMP",
+      "path": "05_CS/005_算法/KMP.md"
+    },
+    {
+      "basename": "BM",
+      "path": "05_CS/005_算法/BM.md"
+    },
+    {
+      "basename": "暴力匹配",
+      "path": "05_CS/005_算法/暴力匹配.md"
+    },
+    {
+      "basename": "树结构查找",
+      "path": "05_CS/005_算法/树结构查找.md"
+    },
+    {
+      "basename": "散列表查找",
+      "path": "05_CS/005_算法/散列表查找.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "05_CS/005_算法/二分查找.md"
+    },
+    {
+      "basename": "广度优先搜索",
+      "path": "05_CS/005_算法/广度优先搜索.md"
+    },
+    {
+      "basename": "深度优先搜索",
+      "path": "05_CS/005_算法/深度优先搜索.md"
+    },
+    {
+      "basename": "枚举算法",
+      "path": "05_CS/005_算法/枚举算法.md"
+    },
+    {
+      "basename": "分治算法",
+      "path": "05_CS/005_算法/分治算法.md"
+    },
+    {
+      "basename": "回溯算法",
+      "path": "05_CS/005_算法/回溯算法.md"
+    },
+    {
+      "basename": "贪心算法",
+      "path": "05_CS/005_算法/贪心算法.md"
+    },
+    {
+      "basename": "动态规划",
+      "path": "05_CS/005_算法/动态规划.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "05_CS/005_算法/排序算法.md"
+    },
+    {
+      "basename": "线性表",
+      "path": "05_CS/003_数据结构/线性表.md"
+    },
+    {
+      "basename": "第六章 图",
+      "path": "05_CS/003_数据结构/第六章 图.md"
+    },
+    {
+      "basename": "论文格式规范",
+      "path": "07_Tools/论文格式规范.md"
+    },
+    {
+      "basename": "Karabiner-Elements",
+      "path": "07_Tools/Karabiner-Elements.md"
+    },
+    {
+      "basename": "NumPy",
+      "path": "07_Tools/NumPy.md"
+    },
+    {
+      "basename": "Pillow",
+      "path": "07_Tools/Pillow.md"
+    },
+    {
+      "basename": "Matplotlib",
+      "path": "07_Tools/Matplotlib.md"
+    },
+    {
+      "basename": "TensorFlow",
+      "path": "07_Tools/TensorFlow.md"
+    },
+    {
+      "basename": "Scikit-learn",
+      "path": "07_Tools/Scikit-learn.md"
+    },
+    {
+      "basename": "SQL基础语法",
+      "path": "07_Tools/SQL基础语法.md"
+    },
+    {
+      "basename": "Scapy",
+      "path": "07_Tools/Scapy.md"
+    },
+    {
+      "basename": "ResNet",
+      "path": "📖 课程笔记/机器学习进阶/ResNet.md"
+    },
+    {
+      "basename": "卷积神经网络",
+      "path": "09_MachineLearning/深度学习/卷积神经网络.md"
+    },
+    {
+      "basename": "图形神经网络",
+      "path": "09_MachineLearning/深度学习/图形神经网络.md"
+    },
+    {
+      "basename": "Mamba模型",
+      "path": "09_MachineLearning/深度学习/Mamba模型.md"
+    },
+    {
+      "basename": "自编码器",
+      "path": "09_MachineLearning/深度学习/自编码器.md"
+    },
+    {
+      "basename": "递归神经网络",
+      "path": "09_MachineLearning/深度学习/递归神经网络.md"
+    },
+    {
+      "basename": "深度学习",
+      "path": "09_MachineLearning/深度学习/深度学习.md"
+    },
+    {
+      "basename": "特征工程",
+      "path": "09_MachineLearning/特征工程/特征工程.md"
+    },
+    {
+      "basename": "数据泄露",
+      "path": "09_MachineLearning/特征工程/数据泄露.md"
+    },
+    {
+      "basename": "合成数据",
+      "path": "09_MachineLearning/特征工程/合成数据.md"
+    },
+    {
+      "basename": "下采样",
+      "path": "09_MachineLearning/特征工程/下采样.md"
+    },
+    {
+      "basename": "上采样",
+      "path": "09_MachineLearning/特征工程/上采样.md"
+    },
+    {
+      "basename": "减小维度",
+      "path": "09_MachineLearning/特征工程/减小维度.md"
+    },
+    {
+      "basename": "潜在空间",
+      "path": "09_MachineLearning/特征工程/潜在空间.md"
+    },
+    {
+      "basename": "矢量嵌入",
+      "path": "09_MachineLearning/特征工程/矢量嵌入.md"
+    },
+    {
+      "basename": "特征提取",
+      "path": "09_MachineLearning/特征工程/特征提取.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

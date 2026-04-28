@@ -1,0 +1,12 @@
+{
+  "translucency": false,
+  "showRibbon": true,
+  "accentColor": "#d97757",
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "showViewHeader": false,
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "PingFang SC",
+  "interfaceFontFamily": "PingFang SC"
+}

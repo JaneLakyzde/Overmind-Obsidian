@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "4d92973c869ff558",
+    "type": "split",
+    "children": [
+      {
+        "id": "f44cfb19e3a95384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19e89b858596ef38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d10cadf778039c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dc01a62e896f5dd",
+        "type": "tabs",
+        "dimension": 77.37556561085972,
+        "children": [
+          {
+            "id": "bd078d512e12ab55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "add60750ea952fd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b3606147046c9450",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1a6e7ef1c796f8e5",
+        "type": "tabs",
+        "dimension": 22.62443438914027,
+        "children": [
+          {
+            "id": "87d254c4a0a34199",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "1e44465ddd9bb018",
+    "type": "split",
+    "children": [
+      {
+        "id": "7389fa1fd46fb2cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "946c51ac372d66f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b15ef14d1ea7fe84",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "b5aa56e8e04d84b2",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "08_Tools/stegslove.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          },
+          {
+            "id": "7ad3024c53c72346",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          },
+          {
+            "id": "82da371d7af89c82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000_Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "000_Home 的出链列表"
+            }
+          },
+          {
+            "id": "3e95a1477a9dc536",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "📖 课程笔记/机器学习进阶/ResNet.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "ResNet 的反向链接列表"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "random-note:开始漫游笔记": false,
+      "command-palette:打开命令面板": true,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "19e89b858596ef38",
+  "lastOpenFiles": [
+    "000_Home.md",
+    "未命名.base",
+    "README.md",
+    "Excalidraw/Drawing 2026-03-10 13.11.19.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-03 11.54.17.excalidraw.md",
+    "spec-life-dashboard.md",
+    "05_CS/000_重难点/进程与线程的内存模型.md",
+    "05_CS/005_算法/拓扑.md",
+    "05_CS/005_算法/迪杰斯特拉.md",
+    "05_CS/005_算法/并查集.md",
+    "05_CS/005_算法/Trie.md",
+    "05_CS/005_算法/KMP.md",
+    "05_CS/005_算法/BM.md",
+    "05_CS/005_算法/暴力匹配.md",
+    "05_CS/005_算法/树结构查找.md",
+    "05_CS/005_算法/散列表查找.md",
+    "05_CS/005_算法/二分查找.md",
+    "05_CS/005_算法/广度优先搜索.md",
+    "05_CS/005_算法/深度优先搜索.md",
+    "05_CS/005_算法/枚举算法.md",
+    "05_CS/005_算法/分治算法.md",
+    "05_CS/005_算法/回溯算法.md",
+    "05_CS/005_算法/贪心算法.md",
+    "05_CS/005_算法/动态规划.md",
+    "05_CS/005_算法/排序算法.md",
+    "05_CS/003_数据结构/线性表.md",
+    "05_CS/005_算法",
+    "📖 课程笔记/机器学习进阶",
+    "09_MachineLearning/深度学习/Neural_Networks",
+    "09_MachineLearning/计算机视觉",
+    "09_MachineLearning/自然语言处理",
+    "09_MachineLearning/MLOps",
+    "09_MachineLearning/机器学习库",
+    "09_MachineLearning/模型训练",
+    "09_MachineLearning/生成式 AI",
+    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-192x192.png",
+    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-32x32.png",
+    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-16x16.png",
+    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-180x180.png",
+    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-152x152.png",
+    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-120x120.png",
+    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-76x76.png",
+    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-57x57.png",
+    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+    "未命名.canvas"
+  ]
+}

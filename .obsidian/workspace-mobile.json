@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "6f9f2a9213983246",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2e8179c4eeb0e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8748278168470e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "6fb18f125697e68f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_CS/001_计算机组成原理/溢出判断.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "溢出判断"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a9506b10d5a257e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8beba1e657eb8a17",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "27db7434409a5a05",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "4931783c2b5e66ad",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "b1bfebd7938ff15c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "428d5c484249542d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "56f5d6105cd589bd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0dde3bc4b24bd043",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "c835b92be375386a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "e6a415cde6d1cf77",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "e90393f94cf9634f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "6fb18f125697e68f",
+  "lastOpenFiles": [
+    "01_Diary/2026.03.10.md",
+    "README.md",
+    "Excalidraw/Drawing 2026-03-10 13.11.19.excalidraw.md",
+    "老化.md",
+    "97_template/3. 定律.md",
+    "03_Math/02_线性代数/3. 第三章：向量组/Lecture 12：极大线性无关组与向量组的秩.md",
+    "00_attachemnt/Pasted image 20240320235945.png",
+    "97_template/2. 定理.md",
+    "06_C++/左值与右值.md",
+    "03_Math/01_高等数学/6. 第六章：微分方程/Lecture 35：微分方程的基本概念.md",
+    "03_Math/00_其他/01_图文总结/01 常用求极限方法.md",
+    "06_C++/变量类型.md",
+    "06_C++/默认参数.md",
+    "03_Math/02_线性代数/6. 第六章：二次型/Lecture 21：二次型的定义与矩阵表示.md",
+    "03_Math/02_线性代数/4. 第四章：线性方程组/Lecture 16：非齐次线性方程组.md",
+    "03_Math/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+    "00_attachemnt/Pasted image 20240312122808.png",
+    "03_Math/02_线性代数/5. 第五章：特征值与特征向量/Lecture 20：相似.md",
+    "03_Math/01_高等数学/5. 第五章：定积分及反常积分/Lecture 31：定积分的基本概念.md",
+    "03_Math/02_线性代数/2. 第二章：矩阵/Lecture 5：矩阵的逆.md",
+    "03_Math/00_其他/02_公式合集/高等数学 - 公式合集.md",
+    "03_Math/01_高等数学/7. 第七章：多元函数微分学/Lecture 43：多元函数的极值与最值.md",
+    "03_Math/01_高等数学/1. 第一章：函数、极限、连续/Lecture 14：连续性的运算与性质.md",
+    "05_ComputerScience/计算机网络/期末复习.md",
+    "03_Math/01_高等数学/6. 第六章：微分方程/Lecture 37：可降阶方程与高阶线性微分方程.md",
+    "03_Math/01_高等数学/11. 第十一章：多元积分学及其应用/Lecture 59：第一类曲面积分.md",
+    "03_Math/01_高等数学/2. 第二章：导数与微分/Lecture 19：隐函数与参数方程.md",
+    "03_Math/01_高等数学/9. 第九章：无穷级数/Lecture 51：函数展开成幂级数.md",
+    "00_attachemnt/Pasted image 20241029195216.png",
+    "00_attachemnt/Pasted image 20241029200258.png",
+    "00_attachemnt/Pasted image 20241029200328.png",
+    "00_attachemnt/Pasted image 20240301132018.png",
+    "00_attachemnt/Pasted image 20241029200635.png",
+    "00_attachemnt/Pasted Image 20240701200234_128.png",
+    "00_attachemnt/Pasted image 20241029200153.png",
+    "00_attachemnt/Pasted image 20241029195730.png",
+    "03_Math/02_线性代数/5. 第五章：特征值与特征向量",
+    "02_English/01_语法/02_长难句",
+    "03_Math/01_高等数学/1. 第一章：函数、极限、连续",
+    "03_Math/01_高等数学/9. 第九章：无穷级数",
+    "03_Math/02_线性代数/1. 第一章：行列式",
+    "02_English/02_阅读/03_真题讲解 05 - 09",
+    "02_Week",
+    "02_English/01_语法/03_长难句分析",
+    "03_Math/01_高等数学/8. 第八章：重积分",
+    "03_Math/02_线性代数/3. 第三章：向量组"
+  ]
+}

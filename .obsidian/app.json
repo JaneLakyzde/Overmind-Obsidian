@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "autoPairMarkdown": false,
+  "openBehavior": "daily",
+  "readableLineLength": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "00_attachemnt"
+}
