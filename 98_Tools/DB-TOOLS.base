@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.folder == "98_Scarp"
+    order:
+      - file.name
+      - gloss

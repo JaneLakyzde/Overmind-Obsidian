@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f44cfb19e3a95384",
+        "id": "90dd7db632dec6b8",
         "type": "tabs",
         "children": [
           {
-            "id": "19e89b858596ef38",
+            "id": "dd96e59aef8c8d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "98_Tools/Zotero.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Zotero"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -58,7 +58,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e44465ddd9bb018",
@@ -142,7 +143,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "08_Tools/stegslove.md"
+                "file": "04_ML/03_监督学习/分类/决策树.md"
               },
               "icon": "lucide-file-signature",
               "title": "脚注"
@@ -154,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "98_Tools/Zotero.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Zotero 的大纲"
             }
           },
           {
@@ -201,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,53 +216,54 @@
       "bases:新建数据库": false
     }
   },
-  "active": "19e89b858596ef38",
+  "active": "dd96e59aef8c8d88",
   "lastOpenFiles": [
+    "98_Tools/Zotero.md",
+    "01_Diary/2026-05-17.md",
+    "98_Tools/git.md",
+    "98_Tools/ping.md",
+    "01_Diary/2026-05-16.md",
+    "99_attachemnt/9626046e84ef367ebb0bef5434c1d90d.jpg",
+    "98_Tools/Curl.md",
     "000_Home.md",
-    "未命名.base",
     "README.md",
-    "Excalidraw/Drawing 2026-03-10 13.11.19.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-03 11.54.17.excalidraw.md",
-    "spec-life-dashboard.md",
-    "05_CS/000_重难点/进程与线程的内存模型.md",
-    "05_CS/005_算法/拓扑.md",
-    "05_CS/005_算法/迪杰斯特拉.md",
-    "05_CS/005_算法/并查集.md",
-    "05_CS/005_算法/Trie.md",
-    "05_CS/005_算法/KMP.md",
-    "05_CS/005_算法/BM.md",
-    "05_CS/005_算法/暴力匹配.md",
-    "05_CS/005_算法/树结构查找.md",
-    "05_CS/005_算法/散列表查找.md",
-    "05_CS/005_算法/二分查找.md",
-    "05_CS/005_算法/广度优先搜索.md",
-    "05_CS/005_算法/深度优先搜索.md",
-    "05_CS/005_算法/枚举算法.md",
-    "05_CS/005_算法/分治算法.md",
-    "05_CS/005_算法/回溯算法.md",
-    "05_CS/005_算法/贪心算法.md",
-    "05_CS/005_算法/动态规划.md",
-    "05_CS/005_算法/排序算法.md",
-    "05_CS/003_数据结构/线性表.md",
-    "05_CS/005_算法",
-    "📖 课程笔记/机器学习进阶",
-    "09_MachineLearning/深度学习/Neural_Networks",
-    "09_MachineLearning/计算机视觉",
-    "09_MachineLearning/自然语言处理",
-    "09_MachineLearning/MLOps",
-    "09_MachineLearning/机器学习库",
-    "09_MachineLearning/模型训练",
-    "09_MachineLearning/生成式 AI",
-    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
-    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-192x192.png",
-    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-32x32.png",
-    "09_MachineLearning/ibm-machine-learning-page-only/www.ibm.com/content/dam/adobe-cms/default-images/icon-16x16.png",
-    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-180x180.png",
-    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-152x152.png",
-    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-120x120.png",
-    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-76x76.png",
-    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/apple-touch-icon-57x57.png",
-    "09_MachineLearning/ibm-machine-learning-clone/www.ibm.com/content/dam/adobe-cms/default-images/icon-512x512.png",
+    "Vibe 提示词.md",
+    "98_Tools/Scikit-learn.md",
+    "98_Tools/未命名.base",
+    "05_CS/001_计算机组成原理/未命名.base",
+    "05_CS/001_计算机组成原理/外存储器.md",
+    "99_attachemnt/Pasted image 20260516165348.png",
+    "99_attachemnt/840241f51966a9978b0fad96d3914a27.png",
+    "99_attachemnt/Pasted image 20260511014632.png",
+    "99_attachemnt/Pasted image 20260516165240.png",
+    "99_attachemnt/Pasted image 20260511013223.png",
+    "99_attachemnt/Pasted image 20260511013213.png",
+    "99_attachemnt/Pasted image 20260509182901.png",
+    "99_attachemnt/Pasted image 20260509182127.png",
+    "99_attachemnt/Pasted image 20260509182046.png",
+    "05_CS/001_计算机组成原理/RAID.md",
+    "01_Diary/123.md",
+    "04_ML/03_监督学习/分类/决策树.md",
+    "未命名.md",
+    "未命名.md",
+    "05_CS/001_计算机组成原理/主存储器.md",
+    "05_CS/001_计算机组成原理/乘法运算.md",
+    "05_CS/001_计算机组成原理/IO数据交换方式.md",
+    "05_CS/001_计算机组成原理/IO接口.md",
+    "05_CS/002_操作系统/IO方式.md",
+    "05_CS/001_计算机组成原理/DMA.md",
+    "05_CS/001_计算机组成原理/通道.md",
+    "05_CS/001_计算机组成原理/指令系统.md",
+    "05_CS/001_计算机组成原理/中断.md",
+    "05_CS/001_计算机组成原理/中断优先级.md",
+    "04_ML/04_无监督学习/聚类",
+    "03_AI",
+    "99_attachemnt",
+    "99_attachment",
+    "04_ML/03_监督学习/集成学习/未命名",
+    "04_ML/03_监督学习/自监督学习",
+    "04_ML/03_监督学习/集成学习",
+    "04_ML/03_监督学习/分类",
     "未命名.canvas"
   ]
 }

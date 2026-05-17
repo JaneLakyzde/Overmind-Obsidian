@@ -3,7 +3,7 @@
   "showRibbon": true,
   "accentColor": "#d97757",
   "cssTheme": "Minimal",
-  "theme": "system",
+  "theme": "moonstone",
   "showViewHeader": false,
   "enabledCssSnippets": [],
   "monospaceFontFamily": "Fira Code",

@@ -27,12 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_CS/001_计算机组成原理/溢出判断.md",
+                "file": "01_Diary/2026-05-15.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "溢出判断"
+              "title": "2026-05-15"
             }
           }
         ],
@@ -172,8 +173,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -181,18 +182,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "random-note:开始漫游笔记": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "templates:插入模板": false
     }
   },
   "active": "6fb18f125697e68f",
   "lastOpenFiles": [
+    "000_Home.md",
+    "01_Diary/2026-05-15.md",
+    "05_CS/001_计算机组成原理/溢出判断.md",
     "01_Diary/2026.03.10.md",
     "README.md",
     "Excalidraw/Drawing 2026-03-10 13.11.19.excalidraw.md",
@@ -218,9 +222,6 @@
     "03_Math/01_高等数学/1. 第一章：函数、极限、连续/Lecture 14：连续性的运算与性质.md",
     "05_ComputerScience/计算机网络/期末复习.md",
     "03_Math/01_高等数学/6. 第六章：微分方程/Lecture 37：可降阶方程与高阶线性微分方程.md",
-    "03_Math/01_高等数学/11. 第十一章：多元积分学及其应用/Lecture 59：第一类曲面积分.md",
-    "03_Math/01_高等数学/2. 第二章：导数与微分/Lecture 19：隐函数与参数方程.md",
-    "03_Math/01_高等数学/9. 第九章：无穷级数/Lecture 51：函数展开成幂级数.md",
     "00_attachemnt/Pasted image 20241029195216.png",
     "00_attachemnt/Pasted image 20241029200258.png",
     "00_attachemnt/Pasted image 20241029200328.png",

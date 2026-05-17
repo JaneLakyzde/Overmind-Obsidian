@@ -6,5 +6,15 @@
   "openBehavior": "daily",
   "readableLineLength": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "00_attachemnt"
+  "attachmentFolderPath": "99_attachemnt",
+  "autoPairBrackets": true,
+  "smartIndentList": false,
+  "deleteUnlinkedAttachments": "always",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
