@@ -1,0 +1,36 @@
+/* ------------------------------------------------------------------
+   文件名：mermaid-max-width.css
+   功能：限制 Obsidian 中 Mermaid 图表的最大宽度为 100%
+         同时保持高度自适应，居中显示
+   适用范围：所有 Mermaid 代码块渲染出来的图表
+   ------------------------------------------------------------------ */
+
+/* 方案一：针对 .mermaid 容器内的 SVG（最常用） */
+.mermaid svg {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* 方案二：后备选择器，防止某些主题或插件导致方案一失效 */
+svg[id^="m"][width][height][viewBox] {
+    max-width: 100% !important;
+    height: auto !important;
+    display: block;
+    margin: 0 auto;
+}
+
+/* 可选：让流程图的子图（subgraph）内文字自动换行，避免横向溢出 */
+.mermaid .label {
+    white-space: normal;
+    word-break: break-word;
+}
+
+/* 可选：超宽图表时显示滚动条（不破坏整体布局），按需取消注释 */
+/*
+.mermaid {
+    overflow-x: auto;
+}
+*/

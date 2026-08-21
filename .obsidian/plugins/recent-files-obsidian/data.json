@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Zotero",
-      "path": "98_Tools/Zotero.md"
+      "basename": "Pixi",
+      "path": "98_Scrap/Pixi.md"
     },
     {
-      "basename": "2026-05-17",
-      "path": "01_Diary/2026-05-17.md"
+      "basename": "一元积分计算",
+      "path": "08_Math/微积分/一元积分计算.md"
     },
     {
-      "basename": "git",
-      "path": "98_Tools/git.md"
+      "basename": "反常积分",
+      "path": "08_Math/微积分/反常积分.md"
     },
     {
-      "basename": "2026-05-16",
-      "path": "01_Diary/2026-05-16.md"
+      "basename": "双曲函数",
+      "path": "08_Math/微积分/双曲函数.md"
     },
     {
-      "basename": "Curl",
-      "path": "98_Tools/Curl.md"
+      "basename": "伽马函数",
+      "path": "08_Math/微积分/伽马函数.md"
+    },
+    {
+      "basename": "07_查找",
+      "path": "05_CS/003_数据结构/07_查找.md"
     },
     {
       "basename": "000_Home",
       "path": "000_Home.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "调度",
+      "path": "05_CS/002_操作系统/调度.md"
     },
     {
-      "basename": "Vibe 提示词",
-      "path": "Vibe 提示词.md"
+      "basename": "页面置换算法",
+      "path": "05_CS/002_操作系统/页面置换算法.md"
     },
     {
-      "basename": "Scikit-learn",
-      "path": "98_Tools/Scikit-learn.md"
+      "basename": "2_进程与线程",
+      "path": "05_CS/002_操作系统/2_进程与线程.md"
     },
     {
-      "basename": "未命名",
-      "path": "05_CS/001_计算机组成原理/未命名.base"
+      "basename": "一元积分概念",
+      "path": "08_Math/微积分/一元积分概念.md"
     },
     {
-      "basename": "外存储器",
-      "path": "05_CS/001_计算机组成原理/外存储器.md"
-    },
-    {
-      "basename": "840241f51966a9978b0fad96d3914a27",
-      "path": "99_attachemnt/840241f51966a9978b0fad96d3914a27.png"
-    },
-    {
-      "basename": "Pasted image 20260511014632",
-      "path": "99_attachemnt/Pasted image 20260511014632.png"
-    },
-    {
-      "basename": "Pasted image 20260511013223",
-      "path": "99_attachemnt/Pasted image 20260511013223.png"
-    },
-    {
-      "basename": "Pasted image 20260511013213",
-      "path": "99_attachemnt/Pasted image 20260511013213.png"
-    },
-    {
-      "basename": "Pasted image 20260509182901",
-      "path": "99_attachemnt/Pasted image 20260509182901.png"
-    },
-    {
-      "basename": "Pasted image 20260509182127",
-      "path": "99_attachemnt/Pasted image 20260509182127.png"
-    },
-    {
-      "basename": "Pasted image 20260509182046",
-      "path": "99_attachemnt/Pasted image 20260509182046.png"
-    },
-    {
-      "basename": "Pasted image 20260509181637",
-      "path": "99_attachemnt/Pasted image 20260509181637.png"
-    },
-    {
-      "basename": "Pasted image 20260509160705",
-      "path": "99_attachemnt/Pasted image 20260509160705.png"
-    },
-    {
-      "basename": "Pasted image 20260509155944",
-      "path": "99_attachemnt/Pasted image 20260509155944.png"
-    },
-    {
-      "basename": "Pasted image 20260509155836",
-      "path": "99_attachemnt/Pasted image 20260509155836.png"
-    },
-    {
-      "basename": "RAID",
-      "path": "05_CS/001_计算机组成原理/RAID.md"
-    },
-    {
-      "basename": "主存储器",
-      "path": "05_CS/001_计算机组成原理/主存储器.md"
-    },
-    {
-      "basename": "乘法运算",
-      "path": "05_CS/001_计算机组成原理/乘法运算.md"
-    },
-    {
-      "basename": "IO数据交换方式",
-      "path": "05_CS/001_计算机组成原理/IO数据交换方式.md"
-    },
-    {
-      "basename": "IO接口",
-      "path": "05_CS/001_计算机组成原理/IO接口.md"
+      "basename": "PCB",
+      "path": "05_CS/002_操作系统/PCB.md"
     },
     {
       "basename": "DMA",
-      "path": "05_CS/001_计算机组成原理/DMA.md"
+      "path": "05_CS/001_计算机组成原理/外设/DMA.md"
     },
     {
-      "basename": "通道",
-      "path": "05_CS/001_计算机组成原理/通道.md"
+      "basename": "内存模型",
+      "path": "05_CS/000_易错点/内存模型.md"
     },
     {
-      "basename": "指令系统",
-      "path": "05_CS/001_计算机组成原理/指令系统.md"
+      "basename": "迪杰斯特拉",
+      "path": "05_CS/005_算法/迪杰斯特拉.md"
     },
     {
-      "basename": "中断",
-      "path": "05_CS/001_计算机组成原理/中断.md"
+      "basename": "贪心算法",
+      "path": "05_CS/005_算法/贪心算法.md"
     },
     {
-      "basename": "中断优先级",
-      "path": "05_CS/001_计算机组成原理/中断优先级.md"
+      "basename": "深度优先搜索",
+      "path": "05_CS/005_算法/深度优先搜索.md"
     },
     {
-      "basename": "Cache",
-      "path": "05_CS/001_计算机组成原理/Cache.md"
+      "basename": "树结构查找",
+      "path": "05_CS/005_算法/树结构查找.md"
     },
     {
-      "basename": "逻辑电路",
-      "path": "05_CS/001_计算机组成原理/逻辑电路.md"
+      "basename": "并查集",
+      "path": "05_CS/005_算法/并查集.md"
+    },
+    {
+      "basename": "广度优先搜索",
+      "path": "05_CS/005_算法/广度优先搜索.md"
+    },
+    {
+      "basename": "分治算法",
+      "path": "05_CS/005_算法/分治算法.md"
+    },
+    {
+      "basename": "寄存器",
+      "path": "05_CS/001_计算机组成原理/处理器/寄存器.md"
+    },
+    {
+      "basename": "PV操作",
+      "path": "05_CS/002_操作系统/PV操作.md"
+    },
+    {
+      "basename": "BIOS",
+      "path": "05_CS/002_操作系统/BIOS.md"
+    },
+    {
+      "basename": "OS引导",
+      "path": "05_CS/002_操作系统/OS引导.md"
+    },
+    {
+      "basename": "系统调用",
+      "path": "05_CS/002_操作系统/系统调用.md"
+    },
+    {
+      "basename": "中断的分类",
+      "path": "05_CS/002_操作系统/中断的分类.md"
+    },
+    {
+      "basename": "中断的处理",
+      "path": "05_CS/001_计算机组成原理/处理器/中断的处理.md"
+    },
+    {
+      "basename": "CPU 的工作模式",
+      "path": "05_CS/002_操作系统/CPU 的工作模式.md"
     },
     {
       "basename": "1_操作系统",
       "path": "05_CS/002_操作系统/1_操作系统.md"
     },
     {
-      "basename": "透明性",
-      "path": "05_CS/001_计算机组成原理/透明性.md"
+      "basename": "4_文件管理",
+      "path": "05_CS/002_操作系统/4_文件管理.md"
     },
     {
-      "basename": "中断和异常",
-      "path": "05_CS/002_操作系统/中断和异常.md"
+      "basename": "5_IO管理",
+      "path": "05_CS/002_操作系统/5_IO管理.md"
     },
     {
-      "basename": "IO方式",
-      "path": "05_CS/002_操作系统/IO方式.md"
+      "basename": "虚拟机",
+      "path": "05_CS/002_操作系统/虚拟机.md"
     },
     {
-      "basename": "虚拟存储器",
-      "path": "05_CS/001_计算机组成原理/虚拟存储器.md"
+      "basename": "内核",
+      "path": "05_CS/002_操作系统/内核.md"
     },
     {
-      "basename": "解释器",
-      "path": "05_CS/001_计算机组成原理/解释器.md"
+      "basename": "原语",
+      "path": "05_CS/002_操作系统/原语.md"
     },
     {
-      "basename": "数据通路",
-      "path": "05_CS/001_计算机组成原理/数据通路.md"
+      "basename": "操作系统分类",
+      "path": "05_CS/002_操作系统/操作系统分类.md"
     },
     {
-      "basename": "控制器",
-      "path": "05_CS/001_计算机组成原理/控制器.md"
+      "basename": "有向无环图",
+      "path": "05_CS/003_数据结构/有向无环图.md"
     },
     {
-      "basename": "总线",
-      "path": "05_CS/001_计算机组成原理/总线.md"
+      "basename": "06_图",
+      "path": "05_CS/003_数据结构/06_图.md"
     },
     {
-      "basename": "指令周期",
-      "path": "05_CS/001_计算机组成原理/指令周期.md"
+      "basename": "最短路径",
+      "path": "05_CS/003_数据结构/最短路径.md"
     },
     {
-      "basename": "03_栈队列和数组",
-      "path": "05_CS/003_数据结构/03_栈队列和数组.md"
+      "basename": "最小生成树",
+      "path": "05_CS/003_数据结构/最小生成树.md"
     },
     {
-      "basename": "01_绪论",
-      "path": "05_CS/003_数据结构/01_绪论.md"
+      "basename": "决策树",
+      "path": "04_ML/03_监督学习/分类/决策树.md"
     },
     {
-      "basename": "总线周期",
-      "path": "05_CS/001_计算机组成原理/总线周期.md"
+      "basename": "快表",
+      "path": "05_CS/002_操作系统/快表.md"
     },
     {
-      "basename": "移位寄存器",
-      "path": "05_CS/001_计算机组成原理/移位寄存器.md"
+      "basename": "并查集",
+      "path": "05_CS/003_数据结构/并查集.md"
     },
     {
-      "basename": "溢出判断",
-      "path": "05_CS/001_计算机组成原理/溢出判断.md"
+      "basename": "05_树",
+      "path": "05_CS/003_数据结构/05_树.md"
     },
     {
-      "basename": "移位运算",
-      "path": "05_CS/001_计算机组成原理/移位运算.md"
+      "basename": "哈夫曼树",
+      "path": "05_CS/003_数据结构/哈夫曼树.md"
+    },
+    {
+      "basename": "一元微分应用",
+      "path": "08_Math/微积分/一元微分应用.md"
+    },
+    {
+      "basename": "极限、连续、可导与可微",
+      "path": "08_Math/微积分/极限、连续、可导与可微.md"
+    },
+    {
+      "basename": "导数极限定理",
+      "path": "08_Math/微积分/导数极限定理.md"
+    },
+    {
+      "basename": "中值定理",
+      "path": "08_Math/微积分/中值定理.md"
+    },
+    {
+      "basename": "曲率",
+      "path": "08_Math/微积分/曲率.md"
     }
   ],
   "omittedPaths": [],

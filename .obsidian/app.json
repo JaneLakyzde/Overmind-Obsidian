@@ -1,12 +1,12 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "autoPairMarkdown": false,
-  "openBehavior": "daily",
+  "openBehavior": "file:000_Home",
   "readableLineLength": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "99_attachemnt",
+  "attachmentFolderPath": "99_attachment",
   "autoPairBrackets": true,
   "smartIndentList": false,
   "deleteUnlinkedAttachments": "always",
@@ -16,5 +16,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "strictLineBreaks": false
 }

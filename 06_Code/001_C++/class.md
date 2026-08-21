@@ -3,7 +3,7 @@ tags:
   - OOP
   - cpp
 date: 2026-01-06
-status: 🟢 已掌握
+status:
 aliases:
   - 类
 ---

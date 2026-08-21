@@ -1,9 +1,8 @@
 {
   "lightStyle": "minimal-light-tonal",
   "darkStyle": "minimal-dark-tonal",
-  "lightScheme": "minimal-catppuccin-light",
+  "lightScheme": "minimal-flexoki-light",
   "darkScheme": "minimal-gruvbox-dark",
-  "editorFont": "",
   "lineHeight": 1.5,
   "lineWidth": 40,
   "lineWidthWide": 50,
@@ -28,7 +27,8 @@
   "underlineInternal": true,
   "underlineExternal": true,
   "folding": true,
-  "lineNumbers": false,
+  "lineNumbers": true,
   "readableLineLength": true,
+  "editorFont": "",
   "devBlockWidth": false
 }

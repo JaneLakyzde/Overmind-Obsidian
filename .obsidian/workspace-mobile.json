@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "000_Home.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "000_Home"
             }
           },
           {
@@ -27,17 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Diary/2026-05-15.md",
+                "file": "000_Home.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "2026-05-15"
+              "title": "000_Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,13 +210,13 @@
       "templates:插入模板": false
     }
   },
-  "active": "6fb18f125697e68f",
+  "active": "8748278168470e1d",
   "lastOpenFiles": [
+    "README.md",
     "000_Home.md",
     "01_Diary/2026-05-15.md",
     "05_CS/001_计算机组成原理/溢出判断.md",
     "01_Diary/2026.03.10.md",
-    "README.md",
     "Excalidraw/Drawing 2026-03-10 13.11.19.excalidraw.md",
     "老化.md",
     "97_template/3. 定律.md",

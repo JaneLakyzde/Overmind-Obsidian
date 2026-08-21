@@ -2,6 +2,7 @@
 aliases:
   - K-Nearest Neighbors
   - K 最近邻
+  - 最近邻
 tags:
   - ML
 date: 2026-05-09
