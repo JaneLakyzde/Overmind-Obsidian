@@ -2,6 +2,8 @@
 aliases:
   - cross-site request forgery
   - 跨站请求伪造
+tags:
+  - CTF
 ---
 ## 1. 什么是 CSRF
 

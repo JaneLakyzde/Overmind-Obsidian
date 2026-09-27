@@ -2,7 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "openBehavior": "file:000_Home",
   "readableLineLength": true,
   "newFileLocation": "current",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb047d524667e2f1",
+        "id": "e7e1a2e06fc1f776",
         "type": "tabs",
         "children": [
           {
-            "id": "92a0324447460a89",
+            "id": "7bd42ea2295fbd75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_CS/001_计算机组成原理/处理器/中断的处理.md",
+                "file": "05_CS/004_计算机网络/网络协议体系结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "中断的处理"
-            }
-          },
-          {
-            "id": "a44d24b9aebfe20b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_CS/002_操作系统/BIOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "BIOS"
-            }
-          },
-          {
-            "id": "b472f1c792e33093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98_Scrap/OpenFlow.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OpenFlow"
-            }
-          },
-          {
-            "id": "46a462aecb910c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_CS/004_计算机网络/网络层/SDN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SDN"
+              "title": "网络协议体系结构"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,10 +66,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sdn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -160,8 +87,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1a6e7ef1c796f8e5",
@@ -239,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_CS/004_计算机网络/网络层/SDN.md",
+                "file": "05_CS/004_计算机网络/网络协议体系结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -309,48 +235,49 @@
       "templates:插入模板": false,
       "random-note:开始漫游笔记": false,
       "command-palette:打开命令面板": true,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "46a462aecb910c76",
+  "active": "7bd42ea2295fbd75",
   "lastOpenFiles": [
-    "98_Scrap/OpenFlow.md",
-    "05_CS/004_计算机网络/网络层/SDN.md",
-    "000_Home.md",
-    "05_CS/003_数据结构/07_查找.md",
-    "05_CS/003_数据结构/06_图.md",
-    "05_CS/003_数据结构/05_树.md",
-    "05_CS/002_操作系统/3_内存管理.md",
-    "05_CS/002_操作系统/4_文件管理.md",
-    "05_CS/002_操作系统/5_IO管理.md",
-    "05_CS/002_操作系统/Belady 异常.md",
-    "05_CS/000_易错点/多级存储系统.md",
-    "05_CS/000_易错点/DRAM 地址线复用.md",
-    "05_CS/001_计算机组成原理/存储器/相联存储器.md",
-    "05_CS/001_计算机组成原理/存储器/多模块存储器.md",
-    "05_CS/002_操作系统/快表.md",
-    "05_CS/002_操作系统/TLB.md",
-    "05_CS/001_计算机组成原理/存储器/主存储器.md",
-    "05_CS/001_计算机组成原理/存储器/Cache.md",
-    "05_CS/002_操作系统/BIOS.md",
-    "05_CS/002_操作系统/系统调用.md",
-    "07_Paper/Plan.md",
-    "README.md",
-    "00_Course/数据库原理/06_数据库管理语言.md",
-    "00_Course/数据库原理/04_数据库的安全性.md",
-    "05_CS/002_操作系统/2_进程与线程.md",
-    "05_CS/001_计算机组成原理/存储器/外存储器.md",
+    "05_CS/004_计算机网络/5_应用层/DNS.md",
+    "05_CS/004_计算机网络/网络协议体系结构.md",
+    "04_ML/02_特征工程/矢量嵌入.md",
+    "05_CS/004_计算机网络/3_网络层/RIP.md",
+    "05_CS/004_计算机网络/3_网络层/网络层.md",
+    "05_CS/004_计算机网络/3_网络层/BGP.md",
+    "05_CS/004_计算机网络/3_网络层/ICMP.md",
+    "05_CS/004_计算机网络/3_网络层/IGMP.md",
+    "05_CS/004_计算机网络/3_网络层/IPv6.md",
+    "05_CS/004_计算机网络/3_网络层/OSPF.md",
+    "05_CS/004_计算机网络/3_网络层/移动IP.md",
+    "05_CS/004_计算机网络/3_网络层/分组交换.md",
+    "05_CS/004_计算机网络/3_网络层/分类编址.md",
+    "05_CS/004_计算机网络/3_网络层/NAT.md",
+    "05_CS/004_计算机网络/3_网络层/路由选择 3.md",
+    "05_CS/004_计算机网络/3_网络层/路由选择.md",
+    "05_CS/004_计算机网络/1_物理层/网络设备.md",
+    "05_CS/005_算法/递归算法.md",
+    "05_CS/005_算法/Trie.md",
+    "05_CS/005_算法/KMP.md",
+    "05_CS/005_算法/BM.md",
+    "05_CS/005_算法/迪杰斯特拉.md",
+    "05_CS/005_算法/贪心算法.md",
+    "05_CS/005_算法/深度优先搜索.md",
+    "05_CS/005_算法/树结构查找.md",
+    "05_CS/005_算法/枚举算法.md",
+    "00_Course/大学物理/热学",
+    "08_Math/微积分/定理",
+    "05_CS/001_计算机组成原理/2_存储器",
+    "05_CS/001_计算机组成原理/1_处理器",
+    "05_CS/002_操作系统/5_IO管理",
+    "05_CS/002_操作系统/4_文件管理",
+    "05_CS/002_操作系统/3_内存管理",
+    "05_CS/002_操作系统/2_进程与线程",
+    "05_CS/002_操作系统/1_操作系统",
     "97_template",
-    "I",
-    "08_Math/微积分/极限、连续、可导与可微.md.bak",
-    "05_CS/004_计算机网络/应用层",
-    "05_CS/004_计算机网络/运输层",
     "05_CS/004_计算机网络/未命名.canvas",
-    "08_Math/线性代数",
-    "05_CS/001_计算机组成原理/外设",
-    "05_CS/001_计算机组成原理/存储器",
-    "05_CS/001_计算机组成原理/处理器",
-    "05_CS/004_计算机网络/网络层",
     "99_attachment/Pasted image 20260613160014.png",
     "99_attachment/Pasted image 20260613155947.png",
     "99_attachment/Pasted image 20260612135838.png",

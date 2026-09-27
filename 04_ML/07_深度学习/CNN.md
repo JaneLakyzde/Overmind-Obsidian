@@ -45,13 +45,11 @@ IBM 在 Watson Studio 和 watsonx.ai 平台中提供卷积神经网络 (CNN) �
 
 在每次卷积运算之后，卷积神经网络 (CNN) 对特征图应用修正线性单元 (ReLU) 转换，为模型引入非线性特性。
 
-![特征探测器示意图](https://assets.ibm.com/is/image/ibm/iclh-diagram-convolutional-neural-networks:16x9?fmt=png-alpha&dpr=on%2C2&wid=320&hei=180)
+
 
 ### 附加卷积层
 
 如前所述，初始卷积层可以后跟另一个卷积层。如果是这种情况，CNN 的结构就变成一个分层结构，因为后面层可以看到前面层的感受野中的像素。例如，假设我们尝试确定图像中是否包含自行车。可将自行车视为各种零件的总和，它由车架、车把、车轮、踏板等组成。自行车的每个零件构成神经网络中一个较低层次的模式，而零件的组合则表示一个较高层次的模式，从而在卷积神经网络 (CNN) 中形成特征层次结构。最终，卷积层将图像转换为数值，允许神经网络解释和提取相关模式。
-
-![功能层次结构](https://assets.ibm.com/is/image/ibm/hierarchy:16x9?fmt=png-alpha&dpr=on%2C2&wid=320&hei=180)
 
 ### 池化层
 
@@ -70,29 +68,16 @@ IBM 在 Watson Studio 和 watsonx.ai 平台中提供卷积神经网络 (CNN) �
 
 ## 卷积神经网络 (CNN) 的类型
 
-Kunihiko Fukushima 和 Yann LeCun 分别于 1980 年发表论文，并于 [1989 年](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)发表《反向传播在手写邮政编码识别中的应用》(PDF)，奠定了卷积神经网络 (CNN) 研究的基础。更为著名的是，Yann LeCun 成功将反向传播应用于神经网络训练，用于识别一系列手写邮政编码中的图案。在整个 1990 年代，他与自己的团队一起继续开展研究，最终发布“LeNet-5”， 将先前研究中的相同原理应用于文档识别。从那之后，随着类似 ImageNet Large Scale Visual Recognition Challenge (ILSVRC) 的竞赛和新数据集的出现，如 MNIST 和 CIFAR-10，各种不同的 CNN 架构不断涌现。其他一些架构包括：
+Kunihiko Fukushima 和 Yann LeCun 分别于 1980 年发表论文，并于 1989 年发表《反向传播在手写邮政编码识别中的应用》(PDF)，奠定了卷积神经网络 (CNN) 研究的基础。更为著名的是，Yann LeCun 成功将反向传播应用于神经网络训练，用于识别一系列手写邮政编码中的图案。在整个 1990 年代，他与自己的团队一起继续开展研究，最终发布“LeNet-5”， 将先前研究中的相同原理应用于文档识别。从那之后，随着类似 ImageNet Large Scale Visual Recognition Challenge (ILSVRC) 的竞赛和新数据集的出现，如 MNIST 和 CIFAR-10，各种不同的 CNN 架构不断涌现。其他一些架构包括：
 
-- [AlexNet (PDF)](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
-- [VGGNet (PDF)](https://arxiv.org/pdf/1409.1556)
-- [GoogleNet (PDF)](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
-- [ResNet (PDF)](https://arxiv.org/pdf/1512.03385v1)
-- ZFNet
 
 然而，LeNet-5 被公认为经典的卷积神经网络 (CNN) 架构。
 
 Mixture of Experts | 12 月 12 日，第 85 集
 
-![GPT-5.2 code red & AWS Nova models drop](https://cdnsecakmi.kaltura.com/p/1773841/thumbnail/entry_id/1_owfvunl6/width/547)
-
-### 解码 AI：每周新闻摘要
-
-加入我们世界级的专家小组——工程师、研究人员、产品负责人等将为您甄别 AI 领域的真知灼见，带来最新的 AI 资讯与深度解析。
-
-[](https://www.ibm.com/cn-zh/think/podcasts/mixture-of-experts?utm=XFLatestEpMoE)[观看 Mixture of Experts 所有剧集](https://www.ibm.com/cn-zh/think/podcasts/mixture-of-experts?utm=XFLatestEpMoE) 
-
 ## 卷积神经网络 (CNN) 与计算机视觉
 
-卷积神经网络有力地推动了影像识别和计算机视觉任务的执行。[计算机视觉](https://www.ibm.com/cn-zh/think/topics/computer-vision)是人工智能 (AI) 的一个领域，让计算机和系统能够从数字图像、视频和其他视觉输入中获取有意义的信息，并根据这些输入采取行动。这种提供建议的能力让它有别于图像识别任务。目前可以看到的计算机视觉的一些常见应用领域包括：
+卷积神经网络有力地推动了影像识别和计算机视觉任务的执行。计算机视觉是人工智能 (AI) 的一个领域，让计算机和系统能够从数字图像、视频和其他视觉输入中获取有意义的信息，并根据这些输入采取行动。这种提供建议的能力让它有别于图像识别任务。目前可以看到的计算机视觉的一些常见应用领域包括：
 
 - **营销：**社交媒体平台可以提示谁可能会出现在已发布在个人档案中的照片上，从而更轻松地在相册中标记朋友。
 - **医疗保健：**计算机视觉已纳入放射学技术，帮助医生在健康的解剖结构中更有效地识别肿瘤。
@@ -119,7 +104,7 @@ IBM 在和等平台中提供 CNN 模型构建、训练、调优与部署的全�
 CNN 与传统前馈神经网络相比，具备参数共享和局部感知能力，在处理图像和音频等结构化数据时更高效，能显著减少模型参数数量并提升训练速度。
 
 **卷积神经网络有哪些典型应用？**  
-CNN 广泛应用于医疗影像分析、自动驾驶感知、安防监控、人脸识别、工业缺陷检测和零售视觉搜索等领域，是当前主流的[计算机视觉](https://www.ibm.com/cn-zh/think/topics/computer-vision)模型之一。
+CNN 广泛应用于医疗影像分析、自动驾驶感知、安防监控、人脸识别、工业缺陷检测和零售视觉搜索等领域，是当前主流的计算机视觉模型之一。
 
 **主流的 CNN 架构包括哪些？**  
 常见 CNN 架构有 LeNet-5、AlexNet、VGGNet、GoogLeNet、[[ResNet]] 等，适用于不同复杂度与性能需求的图像任务。

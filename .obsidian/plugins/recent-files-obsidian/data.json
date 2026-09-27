@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "SDN",
-      "path": "05_CS/004_计算机网络/网络层/SDN.md"
+      "basename": "网络协议体系结构",
+      "path": "05_CS/004_计算机网络/网络协议体系结构.md"
     },
     {
-      "basename": "OpenFlow",
-      "path": "98_Scrap/OpenFlow.md"
+      "basename": "DNS",
+      "path": "05_CS/004_计算机网络/5_应用层/DNS.md"
     },
     {
-      "basename": "000_Home",
-      "path": "000_Home.md"
+      "basename": "RIP",
+      "path": "05_CS/004_计算机网络/3_网络层/RIP.md"
     },
     {
-      "basename": "06_图",
-      "path": "05_CS/003_数据结构/06_图.md"
+      "basename": "网络层",
+      "path": "05_CS/004_计算机网络/3_网络层/网络层.md"
     },
     {
-      "basename": "07_查找",
-      "path": "05_CS/003_数据结构/07_查找.md"
+      "basename": "BGP",
+      "path": "05_CS/004_计算机网络/3_网络层/BGP.md"
     },
     {
-      "basename": "05_树",
-      "path": "05_CS/003_数据结构/05_树.md"
+      "basename": "ICMP",
+      "path": "05_CS/004_计算机网络/3_网络层/ICMP.md"
     },
     {
-      "basename": "4_文件管理",
-      "path": "05_CS/002_操作系统/4_文件管理.md"
+      "basename": "IGMP",
+      "path": "05_CS/004_计算机网络/3_网络层/IGMP.md"
     },
     {
-      "basename": "3_内存管理",
-      "path": "05_CS/002_操作系统/3_内存管理.md"
+      "basename": "IPv6",
+      "path": "05_CS/004_计算机网络/3_网络层/IPv6.md"
     },
     {
-      "basename": "5_IO管理",
-      "path": "05_CS/002_操作系统/5_IO管理.md"
+      "basename": "OSPF",
+      "path": "05_CS/004_计算机网络/3_网络层/OSPF.md"
     },
     {
-      "basename": "Belady 异常",
-      "path": "05_CS/002_操作系统/Belady 异常.md"
+      "basename": "移动IP",
+      "path": "05_CS/004_计算机网络/3_网络层/移动IP.md"
     },
     {
-      "basename": "多级存储系统",
-      "path": "05_CS/000_易错点/多级存储系统.md"
+      "basename": "分组交换",
+      "path": "05_CS/004_计算机网络/3_网络层/分组交换.md"
     },
     {
-      "basename": "DRAM 地址线复用",
-      "path": "05_CS/000_易错点/DRAM 地址线复用.md"
+      "basename": "分类编址",
+      "path": "05_CS/004_计算机网络/3_网络层/分类编址.md"
     },
     {
-      "basename": "相联存储器",
-      "path": "05_CS/001_计算机组成原理/存储器/相联存储器.md"
+      "basename": "NAT",
+      "path": "05_CS/004_计算机网络/3_网络层/NAT.md"
     },
     {
-      "basename": "多模块存储器",
-      "path": "05_CS/001_计算机组成原理/存储器/多模块存储器.md"
+      "basename": "网络设备",
+      "path": "05_CS/004_计算机网络/1_物理层/网络设备.md"
     },
     {
-      "basename": "主存储器",
-      "path": "05_CS/001_计算机组成原理/存储器/主存储器.md"
+      "basename": "递归算法",
+      "path": "05_CS/005_算法/递归算法.md"
     },
     {
-      "basename": "Cache",
-      "path": "05_CS/001_计算机组成原理/存储器/Cache.md"
+      "basename": "Trie",
+      "path": "05_CS/005_算法/Trie.md"
     },
     {
-      "basename": "BIOS",
-      "path": "05_CS/002_操作系统/BIOS.md"
+      "basename": "KMP",
+      "path": "05_CS/005_算法/KMP.md"
     },
     {
-      "basename": "系统调用",
-      "path": "05_CS/002_操作系统/系统调用.md"
+      "basename": "BM",
+      "path": "05_CS/005_算法/BM.md"
     },
     {
-      "basename": "Plan",
-      "path": "07_Paper/Plan.md"
+      "basename": "迪杰斯特拉",
+      "path": "05_CS/005_算法/迪杰斯特拉.md"
     },
     {
-      "basename": "06_数据库管理语言",
-      "path": "00_Course/数据库原理/06_数据库管理语言.md"
+      "basename": "贪心算法",
+      "path": "05_CS/005_算法/贪心算法.md"
     },
     {
-      "basename": "04_数据库的安全性",
-      "path": "00_Course/数据库原理/04_数据库的安全性.md"
+      "basename": "深度优先搜索",
+      "path": "05_CS/005_算法/深度优先搜索.md"
     },
     {
-      "basename": "2_进程与线程",
-      "path": "05_CS/002_操作系统/2_进程与线程.md"
+      "basename": "树结构查找",
+      "path": "05_CS/005_算法/树结构查找.md"
+    },
+    {
+      "basename": "枚举算法",
+      "path": "05_CS/005_算法/枚举算法.md"
+    },
+    {
+      "basename": "暴力匹配",
+      "path": "05_CS/005_算法/暴力匹配.md"
+    },
+    {
+      "basename": "散列表查找",
+      "path": "05_CS/005_算法/散列表查找.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "05_CS/005_算法/排序算法.md"
+    },
+    {
+      "basename": "拓扑",
+      "path": "05_CS/005_算法/拓扑.md"
+    },
+    {
+      "basename": "广度优先搜索",
+      "path": "05_CS/005_算法/广度优先搜索.md"
+    },
+    {
+      "basename": "并查集",
+      "path": "05_CS/005_算法/并查集.md"
+    },
+    {
+      "basename": "动态规划",
+      "path": "05_CS/005_算法/动态规划.md"
+    },
+    {
+      "basename": "分治算法",
+      "path": "05_CS/005_算法/分治算法.md"
+    },
+    {
+      "basename": "二分查找",
+      "path": "05_CS/005_算法/二分查找.md"
+    },
+    {
+      "basename": "微分方程",
+      "path": "08_Math/微积分/微分方程.md"
+    },
+    {
+      "basename": "方向导数和梯度",
+      "path": "08_Math/微积分/方向导数和梯度.md"
+    },
+    {
+      "basename": "曲率",
+      "path": "08_Math/微积分/曲率.md"
+    },
+    {
+      "basename": "极值与最值",
+      "path": "08_Math/微积分/极值与最值.md"
+    },
+    {
+      "basename": "泰勒展开",
+      "path": "08_Math/微积分/泰勒展开.md"
+    },
+    {
+      "basename": "穿针引线法",
+      "path": "08_Math/微积分/穿针引线法.md"
     },
     {
       "basename": "外存储器",
-      "path": "05_CS/001_计算机组成原理/存储器/外存储器.md"
+      "path": "05_CS/001_计算机组成原理/外存储器.md"
     },
     {
-      "basename": "OS引导",
-      "path": "05_CS/002_操作系统/OS引导.md"
+      "basename": "多元函数微分",
+      "path": "08_Math/微积分/多元函数微分.md"
     },
     {
-      "basename": "1_操作系统",
-      "path": "05_CS/002_操作系统/1_操作系统.md"
+      "basename": "多元函数",
+      "path": "08_Math/微积分/多元函数.md"
     },
     {
-      "basename": "虚拟机",
-      "path": "05_CS/002_操作系统/虚拟机.md"
+      "basename": "一元函数微分",
+      "path": "08_Math/微积分/一元函数微分.md"
     },
     {
-      "basename": "中断的处理",
-      "path": "05_CS/001_计算机组成原理/处理器/中断的处理.md"
+      "basename": "二重积分",
+      "path": "08_Math/微积分/二重积分.md"
     },
     {
-      "basename": "中断优先级",
-      "path": "05_CS/001_计算机组成原理/处理器/中断优先级.md"
+      "basename": "一重积分计算",
+      "path": "08_Math/微积分/一重积分计算.md"
     },
     {
-      "basename": "页框回收",
-      "path": "05_CS/002_操作系统/页框回收.md"
+      "basename": "中值定理",
+      "path": "08_Math/微积分/定理/中值定理.md"
     },
     {
-      "basename": "通道",
-      "path": "05_CS/001_计算机组成原理/通道.md"
+      "basename": "缓冲区管理",
+      "path": "05_CS/002_操作系统/5_IO管理/缓冲区管理.md"
     },
     {
-      "basename": "原语",
-      "path": "05_CS/002_操作系统/原语.md"
+      "basename": "磁盘管理",
+      "path": "05_CS/002_操作系统/5_IO管理/磁盘管理.md"
     },
     {
-      "basename": "内核",
-      "path": "05_CS/002_操作系统/内核.md"
+      "basename": "IO管理",
+      "path": "05_CS/002_操作系统/5_IO管理/IO管理.md"
     },
     {
-      "basename": "进程调度",
-      "path": "05_CS/002_操作系统/进程调度.md"
+      "basename": "系统调用",
+      "path": "05_CS/002_操作系统/1_操作系统/系统调用.md"
     },
     {
-      "basename": "动态分区算法",
-      "path": "05_CS/002_操作系统/动态分区算法.md"
-    },
-    {
-      "basename": "分块矩阵",
-      "path": "08_Math/线性代数/分块矩阵.md"
-    },
-    {
-      "basename": "02_矩阵",
-      "path": "08_Math/线性代数/02_矩阵.md"
-    },
-    {
-      "basename": "05_特征值与特征向量",
-      "path": "08_Math/线性代数/05_特征值与特征向量.md"
-    },
-    {
-      "basename": "04_向量",
-      "path": "08_Math/线性代数/04_向量.md"
-    },
-    {
-      "basename": "03_方程组",
-      "path": "08_Math/线性代数/03_方程组.md"
-    },
-    {
-      "basename": "01_行列式",
-      "path": "08_Math/线性代数/01_行列式.md"
-    },
-    {
-      "basename": "秩",
-      "path": "08_Math/线性代数/秩.md"
-    },
-    {
-      "basename": "虚拟存储",
-      "path": "05_CS/002_操作系统/虚拟存储.md"
-    },
-    {
-      "basename": "虚拟存储器",
-      "path": "05_CS/001_计算机组成原理/虚拟存储器.md"
-    },
-    {
-      "basename": "冯诺依曼机",
-      "path": "05_CS/000_易错点/冯诺依曼机.md"
-    },
-    {
-      "basename": "CSMA",
-      "path": "05_CS/000_易错点/CSMA.md"
-    },
-    {
-      "basename": "网络协议封装一览",
-      "path": "05_CS/000_易错点/网络协议封装一览.md"
-    },
-    {
-      "basename": "PV操作",
-      "path": "05_CS/002_操作系统/PV操作.md"
-    },
-    {
-      "basename": "内存模型",
-      "path": "05_CS/000_易错点/内存模型.md"
-    },
-    {
-      "basename": "基址寄存器",
-      "path": "05_CS/002_操作系统/基址寄存器.md"
-    },
-    {
-      "basename": "CPU 的工作模式",
-      "path": "05_CS/002_操作系统/CPU 的工作模式.md"
+      "basename": "IO控制方式",
+      "path": "05_CS/002_操作系统/5_IO管理/IO控制方式.md"
     }
   ],
   "omittedPaths": [],
