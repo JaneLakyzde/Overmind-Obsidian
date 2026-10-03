@@ -50,7 +50,7 @@
 - [[RNN]] (循环神经网络) 
 - [[LSTM]] (长短期记忆网络)
 - [[Attention]] (注意力机制)
-- [[什么是Transformer?|transformer]]
+- [[什么是Transformer？|transformer]]
 - Autoencoder (自编码器)
 
 # 7. 经典架构
