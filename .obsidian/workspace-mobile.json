@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8748278168470e1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000_Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "000_Home"
-            }
-          },
-          {
             "id": "6fb18f125697e68f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000_Home.md",
-                "mode": "source",
+                "file": "05_CS/002_操作系统/4_文件管理/文件管理.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "000_Home"
+              "title": "文件管理"
             }
           }
         ]
@@ -76,7 +52,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "文件列表"
         }
       },
       {
@@ -212,10 +188,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "8748278168470e1d",
+  "active": "6fb18f125697e68f",
   "lastOpenFiles": [
-    "README.md",
+    "05_CS/002_操作系统/4_文件管理/文件目录.md",
+    "05_CS/002_操作系统/4_文件管理/文件管理.md",
+    "05_CS/002_操作系统/4_文件管理/外存管理.md",
     "000_Home.md",
+    "05_CS/001_计算机组成原理/DMA.md",
+    "05_CS/002_操作系统/5_IO管理/IO控制方式.md",
+    "README.md",
     "01_Diary/2026-05-15.md",
     "05_CS/001_计算机组成原理/溢出判断.md",
     "01_Diary/2026.03.10.md",
@@ -237,11 +218,6 @@
     "03_Math/02_线性代数/5. 第五章：特征值与特征向量/Lecture 20：相似.md",
     "03_Math/01_高等数学/5. 第五章：定积分及反常积分/Lecture 31：定积分的基本概念.md",
     "03_Math/02_线性代数/2. 第二章：矩阵/Lecture 5：矩阵的逆.md",
-    "03_Math/00_其他/02_公式合集/高等数学 - 公式合集.md",
-    "03_Math/01_高等数学/7. 第七章：多元函数微分学/Lecture 43：多元函数的极值与最值.md",
-    "03_Math/01_高等数学/1. 第一章：函数、极限、连续/Lecture 14：连续性的运算与性质.md",
-    "05_ComputerScience/计算机网络/期末复习.md",
-    "03_Math/01_高等数学/6. 第六章：微分方程/Lecture 37：可降阶方程与高阶线性微分方程.md",
     "00_attachemnt/Pasted image 20241029195216.png",
     "00_attachemnt/Pasted image 20241029200258.png",
     "00_attachemnt/Pasted image 20241029200328.png",
